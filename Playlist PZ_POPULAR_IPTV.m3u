@@ -1,0 +1,272 @@
+﻿#EXTM3U cache=500 playlist=1 deinterlace=1 url-tvg="http://iptvportal.tech-cdn.ru/widgets/tv/config/jtv/jtv.zip" m3uautoload=1
+#EXTINF:-1  group-title="Эфирные" tvg-logo="ort" tvg-name="Первый канал",Первый канал
+http://iptv-pz.relant.ru/streams/Pervyj-16x9/stream.m3u8
+#EXTINF:-1   tvg-logo="rus" tvg-name="Россия 1",Россия 1
+http://iptv-pz.relant.ru/streams/Rossija-1m/stream.m3u8
+#EXTINF:-1   tvg-logo="matchTV" tvg-name="Матч ТВ",МАТЧ!
+http://iptv-pz.relant.ru/streams/MatchTV/stream.m3u8
+#EXTINF:-1   tvg-logo="ntv" tvg-name="НТВ",НТВ
+http://iptv-pz.relant.ru/streams/NTV/stream.m3u8
+#EXTINF:-1   tvg-logo="5chanel" tvg-name="Пятый Канал",5 канал
+http://iptv-pz.relant.ru/streams/5-kanal/stream.m3u8
+#EXTINF:-1   tvg-logo="rusK" tvg-name="Россия Культура",Россия К
+http://iptv-pz.relant.ru/streams/Rossija-K/stream.m3u8
+#EXTINF:-1   tvg-logo="rus24" tvg-name="Россия 24",Россия 24
+http://iptv-pz.relant.ru/streams/Rossija-24/stream.m3u8
+#EXTINF:-1   tvg-logo="karusel" tvg-name="Карусель",Карусель
+http://iptv-pz.relant.ru/streams/Karusel/stream.m3u8
+#EXTINF:-1   tvg-logo="otr" tvg-name="ОТР",ОТР
+http://iptv-pz.relant.ru/streams/OTR/stream.m3u8
+#EXTINF:-1   tvg-logo="tvc" tvg-name="ТВЦ",ТВЦ
+http://iptv-pz.relant.ru/streams/TVC/stream.m3u8
+#EXTINF:-1   tvg-logo="rentv" tvg-name="РЕН ТВ",РЕН-ТВ 
+http://iptv-pz.relant.ru/streams/REN/stream.m3u8
+#EXTINF:-1   tvg-logo="spas" tvg-name="Спас ТВ",Спас
+http://iptv-pz.relant.ru/streams/Spas/stream.m3u8
+#EXTINF:-1   tvg-logo="ctc" tvg-name="СТС",СТС
+http://iptv-pz.relant.ru/streams/STS/stream.m3u8
+#EXTINF:-1   tvg-logo="domashnii" tvg-name="Домашний",Домашний
+http://iptv-pz.relant.ru/streams/Domashnij/stream.m3u8
+#EXTINF:-1   tvg-logo="tv3" tvg-name="ТВ-3",ТВ3
+http://iptv-pz.relant.ru/streams/TV3/stream.m3u8
+#EXTINF:-1   tvg-logo="pyatnica" tvg-name="Пятница",Пятница
+http://iptv-pz.relant.ru/streams/MTV-Rossija/stream.m3u8
+#EXTINF:-1   tvg-logo="mir" tvg-name="МИР",Мир
+http://iptv-pz.relant.ru/streams/Mir/stream.m3u8
+#EXTINF:-1   tvg-logo="zvezda" tvg-name="Звезда",Звезда
+http://iptv-pz.relant.ru/streams/Zvezda/stream.m3u8
+#EXTINF:-1   tvg-logo="tnt" tvg-name="ТНТ",ТНТ
+http://iptv-pz.relant.ru/streams/TNT/stream.m3u8
+#EXTINF:-1   tvg-logo="muztv" tvg-name="МУЗ-ТВ",Муз ТВ
+http://iptv-pz.relant.ru/streams/Muztv/stream.m3u8
+#EXTINF:-1   tvg-logo="ctc" tvg-name=" ТВ-21+",ТВ21+
+http://iptv-pz.relant.ru/streams/STSTV21/stream.m3u8
+
+#EXTINF:-1 group-title="Развлекательные"   tvg-logo="ctclove" tvg-name="СТС Love",СТС Love
+http://iptv-pz.relant.ru/streams/STS-Love/stream.m3u8
+#EXTINF:-1   tvg-logo="tnt4" tvg-name="ТНТ4",ТНТ4
+http://iptv-pz.relant.ru/streams/TNT4/stream.m3u8
+#EXTINF:-1   tvg-logo="u" tvg-name="Ю",Ю
+http://iptv-pz.relant.ru/streams/Ju/stream.m3u8
+#EXTINF:-1   tvg-logo="perec" tvg-name="Че",Че
+http://iptv-pz.relant.ru/streams/Perec/stream.m3u8
+#EXTINF:-1   tvg-logo="2x2" tvg-name="Канал 2x2",2x2
+http://iptv-pz.relant.ru/streams/2x2/stream.m3u8
+#EXTINF:-1   tvg-logo="telecafe" tvg-name="Телекафе",Телекафе
+http://iptv-pz.relant.ru/streams/Telecafe/stream.m3u8
+#EXTINF:-1   tvg-logo="kuhnya" tvg-name="Кухня ТВ",Кухня ТВ
+http://iptv-pz.relant.ru/streams/KuhnjaTV/stream.m3u8
+#EXTINF:-1   tvg-logo="sarafan" tvg-name="Сарафан ТВ",Сарафан ТВ
+http://iptv-pz.relant.ru/streams/Sarafan/stream.m3u8
+#EXTINF:-1   tvg-logo="oruzhie" tvg-name="Оружие",Оружие
+http://iptv-pz.relant.ru/streams/Oruzhie/stream.m3u8
+#EXTINF:-1   tvg-logo="retrotv" tvg-name="Ретро ТВ",Ретро ТВ
+http://iptv-pz.relant.ru/streams/Retro/stream.m3u8
+#EXTINF:-1   tvg-logo="8chanel" tvg-name="8 Канал",8 канал
+http://iptv-pz.relant.ru/streams/8/stream.m3u8
+#EXTINF:-1   tvg-logo="tochka" tvg-name="Точка ТВ",Точка ТВ
+http://iptv-pz.relant.ru/streams/Tochka/stream.m3u8
+#EXTINF:-1   tvg-logo="ldpr" tvg-name="",ЛДПР ТВ
+http://iptv-pz.relant.ru/streams/LDPR-Live/stream.m3u8
+#EXTINF:-1   tvg-logo="360" tvg-name="360 Подмосковье",Телеканал 360
+http://iptv-pz.relant.ru/streams/Podmoskovye1/stream.m3u8
+#EXTINF:-1   tvg-logo="fashion" tvg-name="Fashion TV",Fashion TV
+http://iptv-pz.relant.ru/streams/FashionTV/stream.m3u8
+
+#EXTINF:-1 group-title="Детские"  tvg-logo="karusel" tvg-name="Карусель",Карусель
+http://iptv-pz.relant.ru/streams/Karusel/stream.m3u8
+#EXTINF:-1   tvg-logo="strana" tvg-name="Страна",Мультимузыка
+http://iptv-pz.relant.ru/streams/Strana/stream.m3u8
+#EXTINF:-1   tvg-logo="disney" tvg-name="Disney Channel",Disney
+http://iptv-pz.relant.ru/streams/Disney/stream.m3u8
+#EXTINF:-1   tvg-logo="disney" tvg-name="Disney Channel",Disney (Детский)
+http://iptv-pz.relant.ru/streams/Disney-baby/stream.m3u8
+#EXTINF:-1   tvg-logo="skazka" tvg-name="",В гостях у сказки
+http://iptv-pz.relant.ru/streams/VGostyahuskazki/stream.m3u8
+#EXTINF:-1   tvg-logo="multimania" tvg-name="Мультимания",Мультимания
+http://iptv-pz.relant.ru/streams/Multimanija/stream.m3u8
+#EXTINF:-1   tvg-logo="detskiy" tvg-name="Детский канал",Детский
+http://iptv-pz.relant.ru/streams/Detskij/stream.m3u8
+#EXTINF:-1   tvg-logo="mult" tvg-name="Мульт",Мульт
+http://iptv-pz.relant.ru/streams/Mult/stream.m3u8
+#EXTINF:-1   tvg-logo="ryzhiy" tvg-name="Рыжий",Рыжий
+http://iptv-pz.relant.ru/streams/Ryzhiy/stream.m3u8
+#EXTINF:-1   tvg-logo="nick" tvg-name="Nickelodeon",Nickelodeon
+http://iptv-pz.relant.ru/streams/Nickelodeon/stream.m3u8
+#EXTINF:-1   tvg-logo="cartoonntw" tvg-name="Cartoon Network",Cartoon Network
+http://iptv-pz.relant.ru/streams/CartoonNetwork/stream.m3u8
+#EXTINF:-1   tvg-logo="ani" tvg-name="Ani",ANI
+http://iptv-pz.relant.ru/streams/Ani/stream.m3u8
+#EXTINF:-1   tvg-logo="mama" tvg-name="Мама",Мама
+http://iptv-pz.relant.ru/streams/Mat-I-Ditja/stream.m3u8
+#EXTINF:-1   tvg-logo="radostmoya" tvg-name="Радость Моя",Радость моя
+http://iptv-pz.relant.ru/streams/RadostMoja/stream.m3u8
+#EXTINF:-1   tvg-logo="o" tvg-name="",О!
+http://iptv-pz.relant.ru/streams/O/stream.m3u8
+#EXTINF:-1   tvg-logo="pervyiobrz" tvg-name="Первый образовательный",Первый образовательный
+http://iptv-pz.relant.ru/streams/PervyjObrazovatelnyj/stream.m3u8
+
+#EXTINF:-1 group-title="HD"   tvg-logo="ortHD" tvg-name="Первый HD",Первый HD
+http://iptv-pz.relant.ru/streams/Pervyj-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="rusHD" tvg-name="Россия HD",Россия HD
+http://iptv-pz.relant.ru/streams/Rossija-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="evrika" tvg-name="Eureka HD",Эврика HD
+http://iptv-pz.relant.ru/streams/Eureka-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="1hd" tvg-name="1HD",1 HD Music Television
+http://iptv-pz.relant.ru/streams/1hd/stream.m3u8
+#EXTINF:-1   tvg-logo="360hd" tvg-name="360 Подмосковье HD",Телеканал 360 HD
+http://iptv-pz.relant.ru/streams/Podmoskovye/stream.m3u8
+#EXTINF:-1   tvg-logo="fanhd" tvg-name="",FAN HD
+http://iptv-pz.relant.ru/streams/FANHD/stream.m3u8
+#EXTINF:-1   tvg-logo="travelHD" tvg-name="",Travel+Adventure HD
+http://iptv-pz.relant.ru/streams/TravelAdventure/stream.m3u8
+#EXTINF:-1   tvg-logo="ohotnik" tvg-name="Охотник и Рыболов HD",Охотник и рыболов HD
+http://iptv-pz.relant.ru/streams/Ohotnik-i-Ribolov/stream.m3u8
+#EXTINF:-1   tvg-logo="edaHD" tvg-name="ЕДА HD",Еда премиум
+http://iptv-pz.relant.ru/streams/Eda-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="animalfam" tvg-name="Animal Family HD",В мире животных
+http://iptv-pz.relant.ru/streams/Animal-Family-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="shock" tvg-name="Кинопоказ HD-1",Шокирующее ТВ
+http://iptv-pz.relant.ru/streams/Kinopokaz1-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="kinopokaz2HD" tvg-name="Кинопоказ HD-2",Кинопоказ 2 HD
+http://iptv-pz.relant.ru/streams/Kinopokaz2-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="teletrevel" tvg-name="Телепутешествия HD",Приключения HD
+http://iptv-pz.relant.ru/streams/Teleputeshestvija-HD/stream.m3u8
+#EXTINF:-1   tvg-logo="rtdochd" tvg-name="Russia Today Doc (RT Doc)",RT Doc HD
+http://iptv-pz.relant.ru/streams/RT-Doc/stream.m3u8
+
+#EXTINF:-1 group-title="Музыка"  tvg-logo="muztv" tvg-name="МУЗ-ТВ",Муз ТВ
+http://iptv-pz.relant.ru/streams/Muztv/stream.m3u8
+#EXTINF:-1   tvg-logo="europaTv" tvg-name="Europa Plus TV",Европа Плюс ТВ
+http://iptv-pz.relant.ru/streams/EuropaPlus-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="musicBox" tvg-name="Music Box RU",MusicBox Ru
+http://iptv-pz.relant.ru/streams/Music-Box-Ru/stream.m3u8
+#EXTINF:-1   tvg-logo="musicBox" tvg-name="MUSIC Box TV",MusicBox TV
+http://iptv-pz.relant.ru/streams/MusicBoxTV/stream.m3u8
+#EXTINF:-1   tvg-logo="ruSong" tvg-name="Rusong TV",BRIDGE TV РУССКИЙ ХИТ
+http://iptv-pz.relant.ru/streams/RuSong/stream.m3u8
+#EXTINF:-1   tvg-logo="rutv" tvg-name="RU TV",RU.TV
+http://iptv-pz.relant.ru/streams/RU-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="mtvrus" tvg-name="MTV Россия",MTV Россия
+http://iptv-pz.relant.ru/streams/MTVRossija/stream.m3u8
+#EXTINF:-1   tvg-logo="muzPervogo" tvg-name="Музыка Первого",Музыка Первого
+http://iptv-pz.relant.ru/streams/Muzika-Pervogo/stream.m3u8
+#EXTINF:-1   tvg-logo="tntmusic" tvg-name="tntmusic",ТНТ-Music
+http://iptv-pz.relant.ru/streams/tntmusic/stream.m3u8
+#EXTINF:-1   tvg-logo="bridgeTv" tvg-name="Bridge TV",BRIDGE TV
+http://iptv-pz.relant.ru/streams/Bridge-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="bridgeTv" tvg-name="Topsong TV",BRIDGE TV CLASSIC
+http://iptv-pz.relant.ru/streams/TopSongTV/stream.m3u8
+#EXTINF:-1   tvg-logo="bridgeTv" tvg-name="DANGE TV",BRIDGE TV DANCE
+http://iptv-pz.relant.ru/streams/DangeTV/stream.m3u8
+#EXTINF:-1   tvg-logo="nashetv" tvg-name="",НашеТВ
+http://iptv-pz.relant.ru/streams/NasheTV/stream.m3u8
+#EXTINF:-1   tvg-logo="o2" tvg-name="О2ТВ",О2ТВ
+http://iptv-pz.relant.ru/streams/O2TV/stream.m3u8
+#EXTINF:-1   tvg-logo="laminor" tvg-name="Ля-Минор",Ля-Минор
+http://iptv-pz.relant.ru/streams/La-Minor-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="9volna" tvg-name="9 Волна",ACB TV
+http://iptv-pz.relant.ru/streams/9volna/stream.m3u8
+#EXTINF:-1   tvg-logo="1hd" tvg-name="1HD",1 HD Music Television
+http://iptv-pz.relant.ru/streams/1hd/stream.m3u8
+
+#EXTINF:-1 group-title="Кино"  tvg-logo="tv3" tvg-name="ТВ-3",ТВ3
+http://iptv-pz.relant.ru/streams/TV3/stream.m3u8
+#EXTINF:-1   tvg-logo="domkino" tvg-name="Дом кино",Дом Кино
+http://iptv-pz.relant.ru/streams/DomKino/stream.m3u8
+#EXTINF:-1   tvg-logo="kinosat" tvg-name="",Киносат
+http://iptv-pz.relant.ru/streams/kinosat/stream.m3u8
+#EXTINF:-1   tvg-logo="nashekino" tvg-name="Наше кино",РОДНОЕ КИНО
+http://iptv-pz.relant.ru/streams/Nashekino/stream.m3u8
+#EXTINF:-1   tvg-logo="telenovella" tvg-name="",Теленовелла
+http://iptv-pz.relant.ru/streams/Telenovella/stream.m3u8
+#EXTINF:-1   tvg-logo="rusBest" tvg-name="Русский бестселлер",Русский бестселлер
+http://iptv-pz.relant.ru/streams/Russkiy-best/stream.m3u8
+#EXTINF:-1   tvg-logo="rusRoman" tvg-name="Русский роман",Русский роман
+http://iptv-pz.relant.ru/streams/Russkij-roman/stream.m3u8
+#EXTINF:-1   tvg-logo="kino" tvg-name="Кино ТВ",Кино ТВ
+http://iptv-pz.relant.ru/streams/KinoTV/stream.m3u8
+#EXTINF:-1   tvg-logo="kinopokaz" tvg-name="Кинопоказ",Кинопоказ
+http://iptv-pz.relant.ru/streams/Kinopokaz/stream.m3u8
+#EXTINF:-1   tvg-logo="" tvg-name="",FAN
+http://iptv-pz.relant.ru/streams/FAN/stream.m3u8
+#EXTINF:-1   tvg-logo="kinomix" tvg-name="",КИНОМИКС
+http://iptv-pz.relant.ru/streams/kinomix/stream.m3u8
+#EXTINF:-1   tvg-logo="komedia" tvg-name="Комедия ТВ",КИНОКОМЕДИЯ
+http://iptv-pz.relant.ru/streams/Komedija-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="kinoseria" tvg-name="Много ТВ",КИНОСЕРИЯ
+http://iptv-pz.relant.ru/streams/MnogoTV/stream.m3u8
+#EXTINF:-1   tvg-logo="super" tvg-name="",Супер
+http://iptv-pz.relant.ru/streams/Super/stream.m3u8
+#EXTINF:-1   tvg-logo="vremja" tvg-name="ВРЕМЯ",Время
+http://iptv-pz.relant.ru/streams/Vremja/stream.m3u8
+#EXTINF:-1   tvg-logo="indiatv" tvg-name="Индия",ИНДИЙСКОЕ КИНО
+http://iptv-pz.relant.ru/streams/India-TV/stream.m3u8
+
+#EXTINF:-1 group-title="Познавательные"  tvg-logo="nayka" tvg-name="Наука 2 0",Наука 2.0
+http://iptv-pz.relant.ru/streams/Nauka-2/stream.m3u8
+#EXTINF:-1   tvg-logo="365dnei" tvg-name="365 Дней",365 дней
+http://iptv-pz.relant.ru/streams/365-dnej/stream.m3u8
+#EXTINF:-1   tvg-logo="pesiko" tvg-name="",Пес и Ко
+http://iptv-pz.relant.ru/streams/Pes_i_ko/stream.m3u8
+#EXTINF:-1   tvg-logo="domzhiv" tvg-name="Домашние животные",Домашние животные
+http://iptv-pz.relant.ru/streams/Domashnie-zhivotnie/stream.m3u8
+#EXTINF:-1   tvg-logo="zoo" tvg-name="Зоо ТВ",Зоо ТВ
+http://iptv-pz.relant.ru/streams/Zoo-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="rtg" tvg-name="RTG HD",RTG
+http://iptv-pz.relant.ru/streams/RTG/stream.m3u8
+#EXTINF:-1   tvg-logo="planeta" tvg-name="Моя Планета",Моя планета
+http://iptv-pz.relant.ru/streams/Moja-planeta/stream.m3u8
+#EXTINF:-1   tvg-logo="teleput" tvg-name="Телепутешествия",Телепутешествия
+http://iptv-pz.relant.ru/streams/Teleputeshestvija/stream.m3u8
+#EXTINF:-1   tvg-logo="ohota" tvg-name="Охота и рыбалка",Охота и рыбалка
+http://iptv-pz.relant.ru/streams/Ohota-i-rybalka/stream.m3u8
+#EXTINF:-1   tvg-logo="avtoplus" tvg-name="Авто Плюс",Авто Плюс
+http://iptv-pz.relant.ru/streams/Avto-Plus/stream.m3u8
+#EXTINF:-1   tvg-logo="usadba" tvg-name="Усадьба",Усадьба
+http://iptv-pz.relant.ru/streams/Usadba/stream.m3u8
+#EXTINF:-1   tvg-logo="drive" tvg-name="Драйв ТВ",Драйв
+http://iptv-pz.relant.ru/streams/Drive/stream.m3u8
+#EXTINF:-1   tvg-logo="tnomer" tvg-name="",Тномер
+http://iptv-pz.relant.ru/streams/Thomer/stream.m3u8
+#EXTINF:-1   tvg-logo="bober" tvg-name="Бобер",Бобер
+http://iptv-pz.relant.ru/streams/Bober/stream.m3u8
+#EXTINF:-1   tvg-logo="tvoidom" tvg-name="",Твой дом
+http://iptv-pz.relant.ru/streams/TvoiDom/stream.m3u8
+#EXTINF:-1   tvg-logo="zagorodnyi" tvg-name="Загородный",Загородный
+http://iptv-pz.relant.ru/streams/Zagorodnyi/stream.m3u8
+#EXTINF:-1   tvg-logo="zdorov" tvg-name="Здоровое Телевидение",Здоровое ТВ
+http://iptv-pz.relant.ru/streams/Zdorovoe-TV/stream.m3u8
+#EXTINF:-1   tvg-logo="psiho21" tvg-name="Психология21",Психология 21
+http://iptv-pz.relant.ru/streams/Psihologia-21/stream.m3u8
+#EXTINF:-1   tvg-logo="vopiotv" tvg-name="Вопросы и ответы",Вопросы и Ответы
+http://iptv-pz.relant.ru/streams/Voprosi-i-otveti/stream.m3u8
+#EXTINF:-1   tvg-logo="3angels" tvg-name="",Три ангела
+http://iptv-pz.relant.ru/streams/3angel/stream.m3u8
+#EXTINF:-1   tvg-logo="nano" tvg-name="Nano TV",Нано ТВ
+http://iptv-pz.relant.ru/streams/NanoTV/stream.m3u8
+#EXTINF:-1   tvg-logo="souz" tvg-name="Союз",Союз
+http://iptv-pz.relant.ru/streams/Sojuz/stream.m3u8
+#EXTINF:-1   tvg-logo="RedLine" tvg-name="RedLine",Красная Линия
+http://iptv-pz.relant.ru/streams/RedLine/stream.m3u8
+#EXTINF:-1   tvg-logo="rtdochd" tvg-name="Russia Today Doc (RT Doc)",RT Doc HD
+http://iptv-pz.relant.ru/streams/RT-Doc/stream.m3u8
+
+#EXTINF:-1 group-title="Спорт"  tvg-logo="matchTV" tvg-name="Матч ТВ",МАТЧ!
+http://iptv-pz.relant.ru/streams/MatchTV/stream.m3u8
+#EXTINF:-1   tvg-logo="eurosport2hd" tvg-name="",Eurosport 2 HD (тест)
+http://iptv-pz.relant.ru/streams/eurosport2HD/stream.m3u8
+#EXTINF:-1   tvg-logo="arena1" tvg-name="",МАТЧ! АРЕНА
+http://iptv-pz.relant.ru/streams/Match-Arena/stream.m3u8
+#EXTINF:-1   tvg-logo="sport" tvg-name="Спорт",МАТЧ! ИГРА 
+http://iptv-pz.relant.ru/streams/Match-Igra/stream.m3u8
+#EXTINF:-1   tvg-logo="sportPlus" tvg-name="Спорт ПЛЮС",МАТЧ! НАШ СПОРТ
+http://iptv-pz.relant.ru/streams/Match-Nash-Sport/stream.m3u8Киносат
+#EXTINF:-1   tvg-logo="tochka-otryva" tvg-name="",Точка отрыва
+http://iptv-pz.relant.ru/streams/tochkaotryva/stream.m3u8
+
+#EXTINF:-1 group-title="Для взрослых"  tvg-logo="rusNoch" tvg-name="Русская ночь",Русская Ночь (18+)
+http://iptv-pz.relant.ru/streams/Russkaya-noch/stream.m3u8
+#EXTINF:-1   tvg-logo="olala" tvg-name="",O-la-la
+http://iptv-pz.relant.ru/streams/Olala/stream.m3u8
+
